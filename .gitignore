@@ -33,3 +33,6 @@
 
 # OS
 .DS_Store
+
+# Output test files
+samples/test/test
